@@ -1,4 +1,4 @@
-## Criss Cross Game
+## Cryptocompare
 
 Live Site on Netlify: [https://cute-tulumba-66505c.netlify.app/](https://cute-tulumba-66505c.netlify.app/)
 
@@ -59,7 +59,7 @@ Your app should have an input for searching cryptocurrencies and a list of crypt
 
 ### Built with
 
-- Semantic HTML5 markup, canvas for strokes on the criss-cross field
+- Semantic HTML5 markup
 
 - SCSS
 
