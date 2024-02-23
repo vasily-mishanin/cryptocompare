@@ -1,6 +1,6 @@
 ## Cryptocompare
 
-Live Site on Netlify: [https://cute-tulumba-66505c.netlify.app/](https://cute-tulumba-66505c.netlify.app/)
+Live Site on Netlify: [https://singular-capybara-d28d43.netlify.app/](https://singular-capybara-d28d43.netlify.app/)
 
 ### Table of contents
 
